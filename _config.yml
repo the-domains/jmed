@@ -1,28 +1,40 @@
-name: jmed
-favicon: null
-layout_spectrum: 0.5128185385838151
-typography_spectrum: 0.3641450456343591
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.2903226
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+  saturation: 0.488015974406153
   brandStrength: 0.5085210776887834
   lightness: 0.6148931947536767
-  saturation: 0.48801597440615296
+  brandColors:
+    - '#0C0C02'
+    - '#C89952'
+    - '#DFACB4'
+    - '#887765'
+    - '#FFF2D9'
   rhythmicContrast: 0.9280174348969012
-purpose: []
+typography_spectrum: 0.3641450456343591
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: jmed
