@@ -1,0 +1,28 @@
+name: jmed
+favicon: null
+layout_spectrum: 0.5128185385838151
+typography_spectrum: 0.3641450456343591
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5085210776887834
+  lightness: 0.6148931947536767
+  saturation: 0.48801597440615296
+  rhythmicContrast: 0.9280174348969012
+purpose: []
